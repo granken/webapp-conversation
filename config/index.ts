@@ -1,6 +1,6 @@
 import { AppInfo } from "@/types/app"
-export const APP_ID = ''
-export const API_KEY = ''
+export const APP_ID = '0c915648-1582-4759-9fab-7fe809afa627'
+export const API_KEY = 'app-edeDub4aqPyESn95YcRwSA6i'
 export const API_URL = ''
 export const APP_INFO: AppInfo = {
   "title": 'Chat APP',
